@@ -1,5 +1,5 @@
 package model;
-
+//項目
 public  class  Product {
     private String code;
     private String price;
